@@ -1,6 +1,4 @@
 // Nicolas Stoian
-// CUNY First ID - 10852790
-// CS715 Project 1
 
 import java.util.*;
 
